@@ -30,6 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![WEB102 Project 2 - Demonstration](https://github.com/user-attachments/assets/138852be-ff78-483d-96b6-d13cd7319e9a)
+
+
+
 
 ## Notes
 
